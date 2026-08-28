@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Fatemeh!<br>Aspiring Software Developer | Passionate about Python, Data Science, and Web Development<br><br>💡 I love coding, problem-solving, and bringing ideas to life through technology.<br>🚀 Currently learning Data Science & Machine Learning through hands-on projects.<br>🌱 Always learning and sharing knowledge—follow my journey!<br><br>Let's connect and build something amazing!
+👋 Hi, I'm Asal!<br>Aspiring Software Developer | Passionate about Python, Data Science, and Web Development<br><br>💡 I love coding, problem-solving, and bringing ideas to life through technology.<br>🚀 Currently learning Data Science & Machine Learning through hands-on projects.<br>🌱 Always learning and sharing knowledge—follow my journey!<br><br>Let's connect and build something amazing!
 
 
 ## 🌐 Socials:
